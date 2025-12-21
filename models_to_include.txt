@@ -18,3 +18,4 @@ thedrummer/cydonia-24b-v4.1
 z-ai/glm-4.6
 minimax/minimax-m2
 openai/gpt-oss-120b
+qwen/qwen3-8b
