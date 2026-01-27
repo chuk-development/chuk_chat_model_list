@@ -4,6 +4,7 @@ deepseek/deepseek-r1-0528
 deepseek/deepseek-v3.2-exp
 moonshotai/kimi-k2-0905
 moonshotai/kimi-k2-thinking
+moonshotai/kimi-k2.5
 qwen/qwen3-32b
 qwen/qwen3-coder
 qwen/qwen3-next-80b-a3b-instruct
