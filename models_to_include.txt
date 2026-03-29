@@ -9,7 +9,7 @@ moonshotai/kimi-k2-0905
 moonshotai/kimi-k2-thinking
 moonshotai/kimi-k2.5
 openai/gpt-oss-120b
-qwen/qwen3-8b
+qwen/qwen3.5-9b
 qwen/qwen3-32b
 qwen/qwen3-coder
 qwen/qwen3-next-80b-a3b-instruct
