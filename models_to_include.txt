@@ -36,3 +36,5 @@ arcee-ai/trinity-large-preview:free
 z-ai/glm-4.5-air:free
 arcee-ai/trinity-mini:free
 cognitivecomputations/dolphin-mistral-24b-venice-edition:free
+google/gemma-4-26b-a4b-it
+google/gemma-4-31b-it
