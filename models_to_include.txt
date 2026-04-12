@@ -4,6 +4,7 @@ deepseek/deepseek-r1-0528
 deepseek/deepseek-v3.2-exp
 minimax/minimax-m2
 minimax/minimax-m2.5
+minimax/minimax-m2.7
 moonshotai/kimi-k2-0905
 moonshotai/kimi-k2-thinking
 moonshotai/kimi-k2.5
