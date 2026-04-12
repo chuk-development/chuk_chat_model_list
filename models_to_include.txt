@@ -33,6 +33,7 @@ z-ai/glm-4.6v
 z-ai/glm-4.7
 z-ai/glm-4.7-flash
 z-ai/glm-5
+z-ai/glm-5.1
 arcee-ai/trinity-large-preview:free
 z-ai/glm-4.5-air:free
 arcee-ai/trinity-mini:free
