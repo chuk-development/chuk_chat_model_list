@@ -3,7 +3,7 @@ deepseek/deepseek-chat-v3.1
 deepseek/deepseek-r1-0528
 deepseek/deepseek-v3.2-exp
 deepseek/deepseek-v4-pro
-https://openrouter.ai/deepseek/deepseek-v4-flash
+deepseek/deepseek-v4-flash
 google/gemma-4-26b-a4b-it
 google/gemma-4-31b-it
 minimax/minimax-m2
