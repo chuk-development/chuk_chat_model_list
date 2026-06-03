@@ -1,41 +1,94 @@
-alibaba/tongyi-deepresearch-30b-a3b
+# ARCEE-AI
+arcee-ai/trinity-large-thinking
+
+# BAIDU
+baidu/ernie-4.5-vl-424b-a47b
+baidu/ernie-4.5-vl-28b-a3b
+
+# COHERE
+cohere/command-a
+
+# DEEPSEEK
+deepseek/deepseek-v4-flash
+deepseek/deepseek-v4-pro
 deepseek/deepseek-chat-v3.1
 deepseek/deepseek-r1-0528
-deepseek/deepseek-v3.2-exp
-deepseek/deepseek-v4-pro
-deepseek/deepseek-v4-flash
-google/gemma-4-26b-a4b-it
+deepseek/deepseek-chat-v3-0324
+deepseek/deepseek-r1
+deepseek/deepseek-r1-distill-llama-70b
+deepseek/deepseek-r1-distill-qwen-32b
+
+# GOOGLE
 google/gemma-4-31b-it
-minimax/minimax-m2
-minimax/minimax-m2.5
-minimax/minimax-m2.7
-moonshotai/kimi-k2-0905
-moonshotai/kimi-k2-thinking
-moonshotai/kimi-k2.5
-moonshotai/kimi-k2.6
+google/gemma-3-27b-it
+google/gemma-2-27b-it
+
+# META-LLAMA
+meta-llama/llama-3.3-70b-instruct
+meta-llama/llama-3.1-70b-instruct
+meta-llama/llama-3-70b-instruct
+
+# MISTRALAI
+mistralai/mistral-small-2603
+mistralai/devstral-2512
+
+# NOUSRESEARCH
+nousresearch/hermes-4-405b
+nousresearch/hermes-4-70b
+nousresearch/hermes-3-llama-3.1-405b
+nousresearch/hermes-3-llama-3.1-70b
+
+# NVIDIA
+nvidia/nemotron-3-super-120b-a12b
+nvidia/llama-3.3-nemotron-super-49b-v1.5
+nvidia/nemotron-3-nano-30b-a3b
+
+# OPENAI
 openai/gpt-oss-120b
-qwen/qwen3-32b
-qwen/qwen3-235b-a22b-2507
-qwen/qwen3-235b-a22b-thinking-2507
-qwen/qwen3-coder
-qwen/qwen3-next-80b-a3b-instruct
-qwen/qwen3-next-80b-a3b-thinking
-qwen/qwen3-vl-30b-a3b-instruct
-qwen/qwen3-vl-30b-a3b-thinking
-qwen/qwen3-vl-235b-a22b-instruct
-qwen/qwen3-vl-235b-a22b-thinking
-qwen/qwen3.5-9b
-qwen/qwen3.5-27b
-qwen/qwen3.5-35b-a3b
-qwen/qwen3.5-122b-a10b
+
+# PRIME-INTELLECT
+prime-intellect/intellect-3
+
+# QWEN
+qwen/qwen3.6-35b-a3b
+qwen/qwen3.6-27b
 qwen/qwen3.5-397b-a17b
-thedrummer/cydonia-24b-v4.1
-z-ai/glm-4.5
-z-ai/glm-4.5-air
-z-ai/glm-4.5v
-z-ai/glm-4.6
-z-ai/glm-4.6v
-z-ai/glm-4.7
+qwen/qwen3.5-122b-a10b
+qwen/qwen3.5-35b-a3b
+qwen/qwen3.5-27b
+qwen/qwen3.235b-a22b
+qwen/qwen3.235b-a22b-thinking-2507
+qwen/qwen3-coder
+qwen/qwen3-coder-next
+qwen/qwen3-vl-32b-instruct
+qwen/qwen3-vl-235b-a22b-thinking
+qwen/qwen3-vl-235b-a22b-instruct
+qwen/qwen3-next-80b-a3b-thinking
+qwen/qwen3-next-80b-a3b-instruct
+qwen/qwen3-vl-30b-a3b-thinking
+qwen/qwen3-vl-30b-a3b-instruct
+qwen/qwen3-30b-a3b
+qwen/qwen3-30b-a3b-thinking-2507
+qwen/qwen3-coder-30b-a3b-instruct
+qwen/qwen3-30b-a3b-instruct-2507
+qwen/qwen3-32b
+qwen/qwen2.5-vl-72b-instruct
+qwen/qwen2.5-coder-32b-instruct
+qwen/qwen-2.5-72b-instruct
+
+# SAO10K
+sao10k/l3.3-euryale-v2.3-70b
+sao10k/l3.1-70b-hanami-x1
+sao10k/l3-70b-euryale-v2.1
+sao10k/l3.1-euryale-v2.2-70b
+sao10k/l3-8b-lunaris-v1
+
+# THEDRUMMER
+thedrummer/skyfall-36b-v2
+
+# XIAOMI
+xiaomi/mimo-v2-flash
+
+# Z-AI
 z-ai/glm-4.7-flash
-z-ai/glm-5
-z-ai/glm-5.1
+z-ai/glm-4.5v
