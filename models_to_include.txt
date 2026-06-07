@@ -28,9 +28,22 @@ meta-llama/llama-3.3-70b-instruct
 meta-llama/llama-3.1-70b-instruct
 meta-llama/llama-3-70b-instruct
 
+# MINIMAX
+minimax/minimax-m3
+minimax/minimax-m2.7
+minimax/minimax-m2.5
+minimax/minimax-m2.1
+minimax/minimax-m2
+
 # MISTRALAI
 mistralai/mistral-small-2603
 mistralai/devstral-2512
+
+# MOONSHOTAI
+moonshotai/kimi-k2.6
+moonshotai/kimi-k2.5
+moonshotai/kimi-k2-thinking
+moonshotai/kimi-k2-0905
 
 # NOUSRESEARCH
 nousresearch/hermes-4-405b
@@ -90,5 +103,8 @@ thedrummer/skyfall-36b-v2
 xiaomi/mimo-v2-flash
 
 # Z-AI
+z-ai/glm-5.1
+z-ai/glm-5
+z-ai/glm-4.7
 z-ai/glm-4.7-flash
 z-ai/glm-4.5v
