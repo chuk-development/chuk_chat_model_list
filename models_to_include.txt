@@ -27,12 +27,6 @@ moonshotai/kimi-k2.5
 moonshotai/kimi-k2-thinking
 moonshotai/kimi-k2-0905
 
-# NOUSRESEARCH
-nousresearch/hermes-4-405b
-nousresearch/hermes-4-70b
-nousresearch/hermes-3-llama-3.1-405b
-nousresearch/hermes-3-llama-3.1-70b
-
 # OPENAI
 openai/gpt-oss-120b
 openai/gpt-oss-20b
