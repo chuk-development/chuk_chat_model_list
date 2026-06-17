@@ -22,6 +22,7 @@ mistralai/mistral-small-2603
 mistralai/devstral-2512
 
 # MOONSHOTAI
+moonshotai/kimi-k2.7-code
 moonshotai/kimi-k2.6
 moonshotai/kimi-k2.5
 moonshotai/kimi-k2-thinking
