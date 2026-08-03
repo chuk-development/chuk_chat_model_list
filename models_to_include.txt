@@ -4,6 +4,7 @@ arcee-ai/trinity-large-thinking
 # DEEPSEEK
 deepseek/deepseek-v4-flash
 deepseek/deepseek-v4-pro
+deepseek/deepseek-v4-flash-0731
 
 # GOOGLE
 google/gemma-4-31b-it
@@ -42,6 +43,7 @@ qwen/qwen3.5-122b-a10b
 qwen/qwen3.5-35b-a3b
 qwen/qwen3.5-27b
 qwen/qwen3-32b
+qwen/qwen3.5-9b
 
 # XIAOMI
 xiaomi/mimo-v2.5-pro
