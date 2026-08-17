@@ -46,6 +46,7 @@ qwen/qwen3.5-27b
 qwen/qwen3-32b
 qwen/qwen3.5-9b
 qwen/qwen3.8-27b
+qwen/qwen3.8-2.4t-a95b
 
 # XIAOMI
 xiaomi/mimo-v2.5-pro
