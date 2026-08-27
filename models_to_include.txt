@@ -52,6 +52,7 @@ qwen/qwen3.8-2.4t-a95b
 xiaomi/mimo-v2.5-pro
 
 # Z-AI
+z-ai/glm-5.3-flash
 z-ai/glm-5.2
 z-ai/glm-5.1
 z-ai/glm-5
