@@ -1,0 +1,1 @@
+claude --resume cd814095-da4f-4d61-9745-9b3d8074c387  # Add deepseek-v4-flash-vision-exp
