@@ -8,11 +8,13 @@ deepseek/deepseek-v4-flash-0731
 deepseek/deepseek-v4-pro-0813
 deepseek/deepseek-v4-flash-vision-exp
 deepseek/deepseek-v4.1-flash
+deepseek/deepseek-v4.1-flash-1017
 
 # GOOGLE
 google/gemma-4-31b-it
 
 # META
+meta/muse-spark-open
 meta-llama/llama-4-scout
 meta-llama/llama-3.3-70b-instruct
 meta-llama/llama-3.1-8b-instruct
@@ -34,11 +36,15 @@ moonshotai/kimi-k2.5
 moonshotai/kimi-k2-thinking
 moonshotai/kimi-k2-0905
 
+# NVIDIA
+nvidia/nemotron-3.5-super-vl
+
 # OPENAI
 openai/gpt-oss-120b
 openai/gpt-oss-20b
 
 # QWEN
+qwen/qwen3.8-flash
 qwen/qwen3.6-35b-a3b
 qwen/qwen3.6-27b
 qwen/qwen3.5-397b-a17b
@@ -49,6 +55,16 @@ qwen/qwen3-32b
 qwen/qwen3.5-9b
 qwen/qwen3.8-27b
 qwen/qwen3.8-2.4t-a95b
+
+# REFLECTION
+reflection/beam-1.0-501b-a23b
+
+# STEPFUN
+stepfun/step-5-preview
+
+# THINKINGMACHINES
+thinkingmachines/inkling
+thinkingmachines/inkling-small
 
 # XIAOMI
 xiaomi/mimo-v2.5-pro
